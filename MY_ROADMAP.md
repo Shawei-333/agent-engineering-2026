@@ -188,8 +188,7 @@ golden dataset + CI gate + Inspect benchmark + `make eval` 一键产出。
 - [ ] 2 页中文心智模型文档
 - [ ] questions.md（持续更新到 Phase 4）
 - [ ] Python: week1-basics.py + week2-cookbook-annotated.ipynb
-- [ ] 自媒体第 1 条：17 周计划开始（Day 1 发）
-- [ ] 自媒体第 2 条：第一周笔记 + 心智模型（Day 7 发）
+- [ ] 自媒体每天一条
 
 ### Phase 1（Week 3-6）
 - [ ] 100 行 from-scratch agent
@@ -197,28 +196,25 @@ golden dataset + CI gate + Inspect benchmark + `make eval` 一键产出。
 - [ ] daily-briefing agent（自己每天用）
 - [ ] bugs.md（Phase 1 起持续记录）
 - [ ] Python: 能解释自己写的每一行代码
-- [ ] 自媒体第 3 条："0 基础写出第一个 agent"
+- [ ] 自媒体每天一条
 
 ### Phase 2（Week 7-10）
 - [ ] research-analyst Deep Agent
 - [ ] PostgresSaver + human-in-the-loop budget
 - [ ] LangSmith trace URL
-- [ ] 自媒体第 4 条：研究 agent demo
-- [ ] 首次接单尝试
+- [ ] 自媒体每天一条
 
 ### Phase 3（Week 11-14）
 - [ ] 1500 行 mini-harness
 - [ ] 1000 字 post-mortem
-- [ ] 自媒体第 5 条：mini-harness 系列
-- [ ] 接单升级：诊断服务
+- [ ] 自媒体每天一条
 
 ### Phase 4（Week 15-18）
 - [ ] golden dataset + grader
 - [ ] CI gate
 - [ ] Inspect benchmark run
 - [ ] `make eval` 一键产出
-- [ ] 自媒体第 6 条："为什么 90% 的 AI agent 都在 vibes 上改进"
-- [ ] 简历正式投递开始
+- [ ] 自媒体每天一条
 
 ---
 
@@ -229,8 +225,3 @@ Phase 0 (2 周) + Phase 1 (4 周) + Phase 2 (4 周) + Phase 3 (4 周) + Phase 4 
 v1 是 17 周（Phase 1 是 3 周），v2 把 Phase 1 加到 4 周，多出来的 1 周分摊给 Python 上手 + 环境配置 + 第一次写真实代码的卡顿。
 
 ---
-
-## Next action
-
-**Day 1（今天）任务不变** —— 详见 Day1_Action_Manual.md。
-Python 学习从 **Day 2** 正式开始（每晚 45-60 min）。
