@@ -6,7 +6,7 @@
 - Level: 真·0基础（Python 多年前碰过一点，按从头算）
 - Time: 20+ 小时/周
 - Stack: Python + Anthropic (Claude)
-- Goal: 找工作 → 接单 → 自媒体内容
+- Goal: 从0基础到用该技术赚到第一桶金
 - Total estimated duration: **18 周**（Phase 5 持续进行）
 
 ---
