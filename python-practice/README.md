@@ -11,8 +11,3 @@
 - [ ] Week 3-6: Phase 1 期间巩固
 - [ ] Week 7-10: 异步、类型、装饰器
 - [ ] Week 11+: Python 已成为工具,不再单独跟踪
-```
-
-- [ ] commit message: `Init python-practice/`
-- [ ] **Commit changes**
-
